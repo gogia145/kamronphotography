@@ -1,0 +1,37 @@
+.slides-container
+	padding-top: $halfling
+	padding-bottom: $halfling
+	.slide
+		+clearfix
+		background-color: transparentize(white, 0.2)
+		border: 1px solid darken(white, 5)
+		margin-top: $halfling
+		padding: $halfling
+		height: 100px
+
+		cursor: move
+		
+		&.deleting
+			+transition(opacity 400ms $ease_out_quad)
+			opacity: 0
+	
+	.block-settings & .slide-details
+		float: right
+		width: 30%
+		position: relative
+		top: 50%
+		margin-top: -14px
+		
+	.block-settings & .no-image .slide-details
+		width: 100%
+		text-align: center
+		margin-left: auto
+		margin-right: auto
+	
+	.slide-thumbnail
+		max-height: 100px
+		width: auto
+		float: left
+
+
+

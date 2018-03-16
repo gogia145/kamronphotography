@@ -1,0 +1,128 @@
+ == Kameron 1.4.4,  Apr 26, 2015: 
+    - Update: Wordpress Security Fix for TGM Plugin Activation
+
+ == Kameron-1.4.3
+    - Update: Responsive improvements to gallery
+    - Update: Hide sidebar by default on mobile devices
+    - Updated: Reorganized Scroll Settings in Theme Options
+    - Update: Add options to customize scrollbar
+ == Kameron-1.4.2
+    - Fix: Gallery resizing on mobile devices
+    - Fix: Comments translation text
+    - Update: Give child themes translation priority
+    - Fix: Apostrophes in Gallery descriptions
+ == Kameron-1.4.1
+    - Fix: Menu links on mobile touch devices
+ == Kameron-1.4.0
+    - Fix: IE11 Touch Scroll
+    - Fix: Invalid text domain for i18n
+    - Update: Fix Sidebar scroll after menu dropdowns have been toggled
+    - Fix: Prevent layout from breaking when no image is uploaded in portfolio entry
+    - Update: Improved Portfolio image management UX
+    - Fix: Blogs with multiple galleries
+    - Fix: Links in image descriptions
+    - Fix: Add padding to portfolio descriptions with scrollbars
+    - Fix: Remove Empty scrollbars
+    - Fix: portfolio title position in Safari
+    - Update: Fix Page Builder Layout problems
+    - Updated: Translation source files
+ == Kameron-1.3.3
+    - Fix: Pop-up gallery for Pages
+    - Update: Improve responsive layout in landscape mode
+    - Fix: Always auto_close gallery when a different URL is loaded
+    - Fix: Don't close gallery when dropdown is clicked
+    - Update: Add action 'stage.close'
+    - Fix: Page background on Mobile devices
+    - Update: Imrpoved form error message design
+    - Fix: Button titles in Posts and Pages
+    - Update: Remove "Developer Mode" form Theme Options
+    - Update: Add style for input[type=date]
+ == Kameron-1.3.2
+    - Update: Add collapsible menu
+    - Update: Utilize no-pjax class in the menu
+    - Update: Social Networks now share the "current" gallery image
+    - Fix: Portfolio titles are now disabled on mobile when descriptios are disabled.
+    - Fix: Portfolio entry color customization controls
+    - Fix: Don't change URL hash when scroll notification is clicked
+    - Fixed: Add proper Wordpress i18n text-domains
+ == Kameron-1.3.1
+    - Fixed: Android Portrait orientation fix
+    - Fixed: Open links new windows when custom controls ( like Ctrl or Command ) or markup ( target="_blank" ) is used
+    - Updated: Added an unique URL for each gallery image
+    - Fixed: Portfolio title alignment when there is no description
+    - Fixed: Posts are loaded properly with Loading Animation
+ == Kameron-1.3.0
+    - Fixed: Blockquote colors, font sizes
+    - Updated: Added Password Protected Galleries!
+ == Kameron-1.2.5
+    - Fixed: Header toggle on touch devices
+ == Kameron-1.2.4
+    - Updated: Added optional Loading animation
+    - Fixed: Page height calculated properly when using buttons in pages
+ == Kameron-1.2.3
+    - Fixed: Responsive Header bugs when customized header width
+ == Kameron-1.2.2
+    - Fixed: Homescreen items sized properly on page load
+    - Fixed: In Fullscreen-Template Custom alignment properties work only when custom alignment is selected
+    - Fixed: Buttons now appear properly
+    - Updated: Completely rewritten Header ( sidebar ) and its animations
+    - Updated: Visually collapse sidebar before loading a gallery
+    - Fixed: Background color customization
+ == Kameron-1.2.1
+    - Fixed: Scrollerbar color is constant accross axis
+    - Updated: Better gallery sidebar handling
+    - Updated: Added option to force enable/disable sidebar and thumbnails
+ == Kameron-1.2.0
+    - Updated: Added Pop-up galleries for regular Wordpress Galleries in Posts
+    - Added: WP-JS-Hooks
+    - Updated: Added an option to programmatically disable PJAX via JS
+    - Updated: Scrolling library is automatically refreshed if content is loading too slowly
+    - Fixed: Pricing table title alignment
+    - Updated: Button colors are now customizable
+    - Updated: More "Enter Site" Options + Responsive Fixes
+    - Updated: Fotorama Gallery
+    - Updated: Some performance updates for the Gallery
+    - Updated: Improved scrolling with Keyboard Arrows!
+    - Fixed: Stop autoplay on Touch
+    - Fixed: No more "flashing descriptions"
+    - Updated: Align Featured Images to Center
+    - Fixed: Post information controls work in both post lists and single posts
+    - Updated: Add option to disable post date
+    - Updated: Open portfolio entries when clicked anywhere in the entry description
+ == Kameron-1.1.3
+    - Fixed: Enable content field for Galleries
+ == Kameron-1.1.2
+    - Fixed: Theme Options
+ == Kameron-1.1.1
+    - Fixed: Open gallery on click if descriptions disabled and Gallery is enabled
+ == Kameron-1.1.0
+    - Added: Optionally add custom selectors to disable PJAX
+    - Updated: Prevent NGG Gallery breaking the theme
+    - Updated: Restored Gallery  Mouse Timeout
+    - Updated: Prettify Titles after navigating ( Decode HTML in Page Titles )
+    - Updated: Admin Gallery UI and Improved Galleries
+ == Kameron-1.0.5
+    - Fixed: Menu is closing properly in the latest FireFox
+    - Fixed: Top & Bottom Border positioned properly
+    - Updated: Move Scroll Notification in it's own template ( for Developers )
+    - Fixed: Image Block Admin UI
+    - Updated: Remove "Redux Demo Mode"
+ == Kameron-1.0.4
+    - Fixed: Scroll notification shouldn't appear in Galleries
+ == Kameron-1.0.3
+    - Fixed: Always resize gallery properly
+    - Fixed: Closing the gallery will go back to defined Portfolio URL if can't find a previous URL in browser history
+    - Fixed: Gallery sidebar cookies
+    - Fixed: Galleries now work with Admin Bar turned on
+    - Fixed: If neither image nor video is added, don't display the slide...
+ == Kameron-1.0.2
+    - Updated: Upaded all 3 theme demos
+    - Fixed: Gallery button alignment
+    - Fixed: PJAX Disabled for Inputs & Buttons
+    - Fixed: Menu responsive/regular mode detection
+ == Kameron-1.0.1
+    - Updated: Completley JavaScript resizing codebase for perfomance!
+    - Fixed: Creating only one style tag in the DOM for JavaScript styles
+== Kameron 1.0.0
+  
+  - Initial Release

@@ -1,0 +1,952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kameron\n"
+"POT-Creation-Date: 2015-04-02 13:16+0200\n"
+"PO-Revision-Date: 2015-04-02 13:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeVillage\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x;_nx;_nx:4c,1,2;_n:1,2;_n_noop:1,2;"
+"_nx_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: css\n"
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:21 comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:22 comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:56
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:65
+msgid "Menu Widget Area"
+msgstr ""
+
+#: functions.php:130
+msgid "Show All"
+msgstr ""
+
+#: functions.php:506
+msgid ""
+"<span class=\"pwf__title\">This is a password protected area.</span> <span "
+"class=\"pwf__subtitle\">Please enter your password to continue.</span>"
+msgstr ""
+
+#: functions.php:522
+msgid "Password Protected"
+msgstr ""
+
+#: header.php:68
+msgid "Skip to content"
+msgstr ""
+
+#: inc/acf/acf-gallery/acf-gallery-update.php:104
+msgid "What's new"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:22
+msgid "Gallery"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:23
+msgid "Content"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:29
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:30
+msgid "Edit Image"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:31
+msgid "Update Image"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:32
+msgid "uploaded to this post"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:33
+msgid "No images selected"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:34
+msgid "1 image selected"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:35
+#, php-format
+msgid "%d images selected"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:132 inc/acf/acf-gallery/gallery.php:187
+msgid "Title"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:136 inc/acf/acf-gallery/gallery.php:191
+msgid "Alternate Text"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:140 inc/acf/acf-gallery/gallery.php:195
+msgid "Caption"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:144 inc/acf/acf-gallery/gallery.php:199
+msgid "Description"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:148 inc/acf/acf-gallery/gallery.php:203
+#: inc/acf/attachment_meta.php:10
+msgid "Video URL"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:157 inc/acf/acf-gallery/gallery.php:212
+msgid "Remove"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:158 inc/acf/acf-gallery/gallery.php:213
+#: inc/acf/acf-repeater/views/options.php:82 inc/template-tags.php:104
+#: inc/template-tags.php:129
+msgid "Edit"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:169
+msgid "Add Image"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:170
+msgid "Grid"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:171
+msgid "List"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:246
+msgid "Preview Size"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:247
+msgid "Shown when entering data"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:265
+msgid "Library"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:266
+msgid "Limit the media library choice"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:277
+msgid "All"
+msgstr ""
+
+#: inc/acf/acf-gallery/gallery.php:278
+msgid "Uploaded to post"
+msgstr ""
+
+#: inc/acf/acf-repeater/repeater.php:22
+msgid "Repeater"
+msgstr ""
+
+#: inc/acf/acf-repeater/repeater.php:23
+#: inc/acf/acf-repeater/views/options.php:30
+#: inc/acf/acf-repeater/views/options.php:356
+msgid "Layout"
+msgstr ""
+
+#: inc/acf/acf-repeater/repeater.php:29
+msgid "Add Row"
+msgstr ""
+
+#: inc/acf/acf-repeater/repeater.php:32
+msgid "Minimum rows reached ( {min} rows )"
+msgstr ""
+
+#: inc/acf/acf-repeater/repeater.php:33
+msgid "Maximum rows reached ( {max} rows )"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:22
+msgid "New Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:23
+msgid "new_field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:44
+msgid "Repeater Fields"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:52
+msgid "Field Order"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:53
+#: inc/acf/acf-repeater/views/options.php:101
+msgid "Field Label"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:54
+#: inc/acf/acf-repeater/views/options.php:117
+msgid "Field Name"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:55
+#: inc/acf/acf-repeater/views/options.php:132
+msgid "Field Type"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:63
+msgid ""
+"No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:79
+#: inc/acf/acf-repeater/views/options.php:82
+msgid "Edit this Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:83
+msgid "Read documentation for this field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:83
+msgid "Docs"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:84
+msgid "Duplicate this Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:84
+msgid "Duplicate"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:85
+msgid "Delete this Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:85
+msgid "Delete"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:102
+msgid "This is the name which will appear on the edit page"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:118
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:147
+msgid "Field Instructions"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:166
+msgid "Required?"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:174
+#: inc/acf/acf-repeater/views/options.php:219
+msgid "Yes"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:175
+#: inc/acf/acf-repeater/views/options.php:220
+msgid "No"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:184
+msgid "Column Width"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:211
+msgid "Conditional Logic"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:262
+msgid "is equal to"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:263
+msgid "is not equal to"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:281
+msgid "Show this field when"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:287
+msgid "all"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:288
+msgid "any"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:291
+msgid "these rules are met"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:300
+msgid "Save Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:305
+msgid "Close Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:305
+msgid "Close Sub Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:320
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:321
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:328
+msgid "Minimum Rows"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:342
+msgid "Maximum Rows"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:366
+msgid "Table"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:367
+msgid "Row"
+msgstr ""
+
+#: inc/acf/acf-repeater/views/options.php:375
+msgid "Button Label"
+msgstr ""
+
+#: inc/extras.php:61
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/options.php:43
+msgid "General Settings"
+msgstr ""
+
+#: inc/options.php:162
+msgid "Site Navigation"
+msgstr ""
+
+#: inc/options.php:447
+msgid "Blog"
+msgstr ""
+
+#: inc/options.php:1469
+msgid "Scroll Notification"
+msgstr ""
+
+#: inc/options.php:1696
+msgid ""
+"<h3 style=\"color: black;\"\">Warning!</h3>\n"
+"\t\t\t\t\t<strong>Modifying the URLs on a live site will break your existing "
+"links! </strong><br>\n"
+"\t\t\t\t\tAfter making changes, be sure to <a href=\"http://help."
+"themevillage.net/knowledgebase/reset-permalinks\" target=\"_BLANK\">reset "
+"your permalinks</a><br>\n"
+"\t\t\t\t\tYou're responsible for clearing any caching, setting up redirects "
+"if needed, etc.\n"
+"\t\t\t\t\t to make the site work properly after these settings have been "
+"changed. <br>\n"
+"\t\t\t\t\t Now you can click \"Yes, I want to modify URLs\" to enable URL "
+"modification.\n"
+"\t\t\t"
+msgstr ""
+
+#: inc/options.php:1758
+msgid "Theme Options"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:9
+msgid "Entries"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:10
+msgid "Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:11
+#: inc/portfolio/register_portfolio.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:12
+msgid "Parent Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:13
+msgid "All Entries"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:14
+msgid "View Entries"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:15
+msgid "Add New Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:16
+msgid "New Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:17
+msgid "Edit Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:18
+msgid "Update Entry"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:19
+msgid "Search portfolio"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:20
+msgid "No entries found"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:21
+msgid "No entries found in Trash"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:25
+msgid "portfolio"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:59
+#: inc/portfolio/register_portfolio.php:61
+msgid "Projects"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:60
+msgid "Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:62
+msgid "All Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:63
+msgid "Parent Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:64
+msgid "Parent Project:"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:65
+msgid "New Project Name"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:66
+msgid "Add New Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:67
+msgid "Edit Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:68
+msgid "Update Project"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:69
+msgid "Separate projects with commas"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:70
+msgid "Search projects"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:71
+msgid "Add or remove projects"
+msgstr ""
+
+#: inc/portfolio/register_portfolio.php:72
+msgid "Choose from the most used projects"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:126
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/village/Village.class.php:530
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/village/Village.class.php:531
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:155
+#: inc/village/init_plugins/initialize_plugins.php:99
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:156
+#: inc/village/init_plugins/initialize_plugins.php:100
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:157
+#: inc/village/init_plugins/initialize_plugins.php:101
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:159
+#: inc/village/init_plugins/initialize_plugins.php:103
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:160
+#: inc/village/init_plugins/initialize_plugins.php:104
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:161
+#: inc/village/init_plugins/initialize_plugins.php:105
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:162
+#: inc/village/init_plugins/initialize_plugins.php:106
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:163
+#: inc/village/init_plugins/initialize_plugins.php:107
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:164
+#: inc/village/init_plugins/initialize_plugins.php:108
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:165
+#: inc/village/init_plugins/initialize_plugins.php:109
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:166
+#: inc/village/init_plugins/initialize_plugins.php:110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:167
+#: inc/village/init_plugins/initialize_plugins.php:111
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:168
+#: inc/village/init_plugins/initialize_plugins.php:112
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:169
+#: inc/village/init_plugins/initialize_plugins.php:113
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:171
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1840
+#: inc/village/init_plugins/initialize_plugins.php:114
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:172
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1085
+msgid "External Link"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1100
+msgid "Required"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1292
+msgid "Source"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1293
+msgid "Type"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1294
+msgid "Status"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1312
+msgid "Install"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1313
+msgid "Activate"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1950
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/village/init_plugins/TGM_Plugin_Activation.class.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/village/init_plugins/initialize_plugins.php:102
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/village/init_plugins/initialize_plugins.php:115
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/village/page-builder/Village_Block_Image.php:32
+msgid "Select / Upload Image"
+msgstr ""
+
+#: inc/widgets/text.php:10
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: inc/widgets/text.php:12
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/text.php:60
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/text.php:63
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/text.php:68
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: parts/content-page.php:6 parts/content.php:22
+msgid "Pages:"
+msgstr ""
+
+#: parts/entry.php:28 parts/entry.php:32
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: parts/loading-notification.php:20
+msgid "Loading Image"
+msgstr ""
+
+#: parts/scroll-notification.php:11
+msgid "Scroll!"
+msgstr ""
+
+#: parts/scroll-notification.php:12
+msgid "Scroll down with your mousewheel or trackpad to see more content!"
+msgstr ""
+
+#: parts/scroll-notification.php:13
+msgid "Got it!"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#: templates/page-fullscreen.php:50
+msgid "Enter Site"
+msgstr ""

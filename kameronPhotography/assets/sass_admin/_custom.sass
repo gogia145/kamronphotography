@@ -1,0 +1,161 @@
+$light_gray: #E3E3E3
+
+#blocks-to-edit
+	.reference-image
+		img
+			display: block
+			max-width: 100%
+			margin: 0 auto
+
+
+	.block-options
+		+clearfix
+		border: 1px solid darken(white, 10)
+		background-color: darken( white, 4)
+		position: relative
+		padding: $halfling
+		margin: 4px
+		border-radius: 2px
+
+		min-height: 30px
+
+		&.collapsed
+			opacity: 0.2
+			+t_in(opacity, 200)
+			&:hover
+				opacity: 1
+
+		.extended-options
+			border-top: 1px solid $light_gray
+			margin-top: $halfling
+
+			.hndle
+				text-align: center
+				font-weight: normal
+				color: lighten( black, 20 )
+
+			.description
+				input
+					width: 80%
+					margin-right: $halfling
+
+
+		.column
+			+box-sizing(border-box)
+			width: 50%
+
+			float: left
+			padding-left: $halfling
+			&.right
+				border-left: 1px solid $light_gray
+
+
+
+	// .block-options
+
+	.controls
+		position: absolute
+		top: $halfling/2
+		right: $halfling/2
+		width: 100px
+
+		a
+			float: right
+			margin-right: $halfling/2
+
+			text-decoration: none
+			color: $white
+			color: transparentize($white, 0.15)
+			background-color: $black
+
+			display: block
+			+t(background-color, 200)
+			+t(opacity, 200)
+
+			width: auto
+			height: auto
+			padding: 0
+
+
+			box-sizing: border-box
+
+			span
+				vertical-align: middle
+				display: block
+				padding: 5px
+				text-align: center
+
+			text-align: center
+
+			&:hover
+				text-decoration: none
+				color: $white
+
+
+		.settings
+			background-color: $blue
+			opacity: 0.9
+			&:hover
+				opacity: 1
+				background-color: darken(saturate($blue, 7), 5)
+
+
+		.delete
+			background-color: $red
+			border-color: darken( $red, 10 )
+			opacity: 0.75
+			box-shadow: inset 0 1px 0 transparentize( white, 0.5 ), 0 1px 0 rgba( 0, 0, 0, 0.08 )
+
+			span
+				position: relative
+				right: -1px
+
+			&:hover
+				opacity: 1
+				text-decoration: none
+
+
+
+ul#blocks-archive
+	.block-title
+		font-weight: normal
+		font-size: 11px
+
+	.block
+		width: 100%
+		margin-right: 1%
+		text-align: center
+
+	.block-village_block_section
+		width: 99%
+
+		.block-handle
+			// padding: 17px
+			border: 1px dashed lightgray
+			background-color: darken( white, 1 )
+			color-align: lighten( black, 15 )
+
+		&:hover .block-handle
+			border-color: gray
+
+
+
+#blocks-to-edit .block-container ul.blocks
+	padding: 10px
+	margin: 0
+
+
+
+	.block
+		max-width: 724px - 20px
+		margin: 0
+
+
+
+
+
+
+
+
+
+
